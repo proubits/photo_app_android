@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Web Promotion App!</string>
+    <string name="app_name">Web Promotion</string>
+    <string name="photo">This is the photo you just took.</string>
+    <string name="check_photo">Check photos</string>
+    <string name="telstra">Please take a photo when you see the following promotion in any Telstra shop. Click the Picuture to take photo.</string>
+    <string name="loading">Photo is uploading to server. Please wait.</string>
+
+</resources>
